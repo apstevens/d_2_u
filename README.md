@@ -6,7 +6,7 @@
 
 Website built to promote personal training business, the site contains 5 pages including a landing page and contact page.
 
-There is not currently any user information collected from the site and no ecommerce to purchase personal training packages from the site.  However, this functionality is scoped for deployment as demand for services increases.
+There is not currently any user information collected from the site and no ecommerce to purchase personal training packages.  However, this functionality is scoped for deployment as demand for services increases.
 
 ## Languages used
 
