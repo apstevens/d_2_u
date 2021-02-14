@@ -1,0 +1,148 @@
+
+body {
+    margin: 0;
+    font-family: 'Spartan' sans-serif;
+    color: #000;
+    background-color: #fff;
+    font-size: 22px;
+    text-align: center;
+}
+
+a {
+    color: #000;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+h2,
+h3,
+h4 {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Bungee', cursive;
+}
+
+strong {
+    color: #000;
+    font-weight: 700;
+    font-size: 1.85rem;
+}
+
+p {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.site-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-image: url('../images/victor-freitas-WvDYdXDzkhs-unsplash.jpg');
+    background-size: cover;
+
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.main-nav a {
+    color: #fff;
+}
+
+.main-nav a:hover {
+    color: #900;
+    text-decoration: underline;
+}
+
+.main {
+    background-image: url(../images/justin-ng-45tcVh0M3kw-unsplash.jpg);
+    background-size: cover;
+    padding-top: 35px;
+    opacity: 0.9px;
+}
+
+.site-container {
+    width: 80%;
+    height: 700px;
+    margin: 0 auto;
+    background-image: url('../images/boxed-water-is-better-P4AIjQw1BuY-unsplash.jpg');
+    background-size: cover;
+    border-radius: 15px;
+}
+.content h2 {
+    color: #900;
+}
+
+.content p {
+    width: 80%;
+    margin: 5% auto;
+    color: #fff;
+    font-size: 1.7rem;
+}
+
+.btn {
+    background-color: #900;
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.video-content {
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 300px;
+    min-height: auto;
+    width: 700px;
+    padding: 10px;
+    height: 500px;
+}
+
+.video-title {
+    color: #900;
+}
+
+.video-text {
+    width: 80%;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 1.7rem;
+}
+
+.icons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px 10px;
+    padding: 10px;
+}
+
+.site-icon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 15px;
+    color: #fff;
+    background-color: #900;
+    padding: 10px;
+}
+
+.site-footer {
+    overflow: hidden;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    background-image: url('../images/victor-freitas-WvDYdXDzkhs-unsplash.jpg');
+    background-size: cover;
+}
+
+.site-footer p {
+    color: #fff;
+}
+
+@media (min-width: 641px) {
+    
+}
