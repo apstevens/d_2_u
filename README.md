@@ -1,6 +1,4 @@
-# Dedicated 2 U
-
-## Personal Training website
+# Dedicated 2 U ## Personal Training website
 
 ## About this project
 
